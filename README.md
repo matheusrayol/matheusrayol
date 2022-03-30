@@ -1,13 +1,19 @@
 <h1 align="center">Oi! Sou o Matheus :)</h1>
 <h3 align="center">Language Specialist @ Xiaomi e futuro Front-end developer</h3>
 
+<div align="center">
+  <a href="https://github.com/matheusrayol">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusrayol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrayol&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusrayol&label=Profile%20views&color=0e75b6&style=flat" alt="matheusrayol" /> </p>
 
 <p align="left"> <a href="https://twitter.com/matheusrayolf" target="blank"><img src="https://img.shields.io/twitter/follow/matheusrayolf?logo=twitter&style=for-the-badge" alt="naosematty" /></a> </p>
 
 - 🔭 No momento estou trabalhando em [plugins para modificação de ROMs MIUI (Android)](https://github.com/matheusrayol/srk-plugins)
 
-- 🌱 Estou aprendendo **JavaScript, CSS, HTML5**
+- 🌱 Estou aprendendo **JavaScript, CSS, HTML5 e Automação de testes**
 
 - 👯 Atualmente estudando [Front-end e Programação Imperativa](https://github.com/matheusrayol/DH-CTD)
 
