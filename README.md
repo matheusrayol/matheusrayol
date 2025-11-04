@@ -12,12 +12,6 @@
 
 - 🔭 No momento estou trabalhando em [plugins para modificação de ROMs MIUI (Android)](https://github.com/matheusrayol/srk-plugins)
 
-- 🌱 Estou aprendendo **JavaScript, CSS, HTML5 e Automação de testes**
-
-- 👯 Atualmente estudando [Front-end II e Infraestrutura I](https://github.com/matheusrayol/DH-CTD)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui mesmo no GitHub :) [https://github.com/matheusrayol](https://github.com/matheusrayol)
-
 - 📝 Escrevo artigos ocasionalmente em meu projeto pessoal, XMBR/MIUI Brasil [https://xmbr.org](https://xmbr.org)
 
 - 📫 Entre em contato no **falecom@matheusrayol.com**
